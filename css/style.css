@@ -1,0 +1,27 @@
+.border-class{
+    border:thin black solid;
+    padding:20px;
+    border-radius:1em;
+}
+h2{
+    color:#800000; 
+    text-align:center;
+}
+#logout{
+    margin:20px; 
+    float:left;
+}
+#add{
+    margin:20px; 
+    float:right;
+}
+#loginForm, #addUser, #editUser{
+    margin:15%;
+}
+h1{
+    text-align:center; 
+    margin-bottom:20px;
+}
+h6{
+    color:red;
+}
